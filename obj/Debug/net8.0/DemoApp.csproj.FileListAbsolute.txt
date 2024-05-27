@@ -89,6 +89,7 @@ D:\projects\Dotnet\DemoApp\obj\Debug\net8.0\DemoApp.AssemblyInfo.cs
 D:\projects\Dotnet\DemoApp\obj\Debug\net8.0\DemoApp.csproj.CoreCompileInputs.cache
 D:\projects\Dotnet\DemoApp\obj\Debug\net8.0\DemoApp.MvcApplicationPartsAssemblyInfo.cs
 D:\projects\Dotnet\DemoApp\obj\Debug\net8.0\DemoApp.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\Dotnet\DemoApp\obj\Debug\net8.0\DemoApp.sourcelink.json
 D:\projects\Dotnet\DemoApp\obj\Debug\net8.0\staticwebassets.build.json
 D:\projects\Dotnet\DemoApp\obj\Debug\net8.0\staticwebassets.development.json
 D:\projects\Dotnet\DemoApp\obj\Debug\net8.0\staticwebassets\msbuild.DemoApp.Microsoft.AspNetCore.StaticWebAssets.props
